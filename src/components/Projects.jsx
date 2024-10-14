@@ -15,7 +15,7 @@ const Projects = () => {
                     </p>
                     <div className="flex justify-center">
                         <a
-                            href="YOUR_PROJECT_LINK" // Link to your portfolio or GitHub
+                            href="https://github.com/chinese3f/tommy-portofolio" // Link to your portfolio or GitHub
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-blue-500 text-white rounded-full px-4 py-2 hover:bg-blue-600 transition"
